@@ -5,8 +5,7 @@ Extremely motivated to develop my skills and grow professionally as a **frontend
 
 ### Skills
 
-<span><img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/html%2Bjs.png" width="400">  <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/webpack.png" width="200"> </span>  
-<span><img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/sass.png" width="200"> <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/git.png" width="200"> <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/figma_1.jpg" width="200"> </span>
+<span><img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/html%2Bjs.png" width="200">  <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/webpack.png" width="100"><img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/sass.png" width="100"> <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/git.png" width="100"> <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/figma_1.jpg" width="100"> </span>
 
 
 
