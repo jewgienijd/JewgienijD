@@ -8,7 +8,7 @@ Extremely motivated to develop my skills and grow professionally as a **frontend
 <span>
     <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/html%2Bjs.png" width="200"> 
     <img src="https://github.com/jewgienijd/JewgienijD/blob/main/img/angular-logo.webp" width="100">
-    <img src="https://github.com/jewgienijd/JewgienijD/blob/main/img/ts-png.webp" width="100">
+    <img src="https://github.com/jewgienijd/JewgienijD/blob/main/img/ts-logo.png" width="100">
     <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/webpack.png" width="100">
     <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/sass.png" width="100">
     <img src="https://github.com/JewgienijD/JewgienijD/blob/main/img/git.png" width="100">
