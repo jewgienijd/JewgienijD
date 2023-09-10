@@ -1,5 +1,5 @@
 ## Hi there, I'm Jewgienij 👋
-I'm a 1+ year experienced **frontend developer** specialised in Angular. Currently gaining commercial experience in implementing  web apps in **Angular** ecosystem and expanding UI design skills.
+I'm a 2+ year experienced **frontend developer** specialised in Angular. Currently gaining commercial experience in implementing  web apps in **Angular** ecosystem and expanding UI design skills.
 <br>I'm open to collaborate on interesting projects.
 <br>Please, check my public projects below on **GitHub Pages**
 
