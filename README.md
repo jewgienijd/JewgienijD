@@ -1,7 +1,11 @@
 ## Hi there, I'm Jewgienij 👋
-I'm a 4+ year experienced **frontend developer** specialised in Angular. Currently gaining commercial experience in implementing  web apps in **Angular** ecosystem and expanding UI design skills.
-<br>I'm open to collaborate on interesting projects.
-<br>Please, check my public projects below on **GitHub Pages**
+👋 I'm a **frontend and mobile developer** with over 4 years of experience, specializing in Angular for web and Flutter/Dart for cross-platform mobile applications.
+
+I build performant, maintainable apps with a focus on clean architecture and great user experience. Currently deepening my commercial experience in the **Angular ecosystem**, while also sharpening my **UI/UX design** skills.
+
+🗺️ I also work with **GIS technologies**, integrating **Mapbox GL and MapLibre GL** into both **web and mobile apps** for interactive, location-based solutions.
+
+Always open to collaborating on exciting projects—especially those that bridge web, mobile, and geospatial technologies.
 
 ### Skills
 
